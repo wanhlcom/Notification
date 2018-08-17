@@ -2,7 +2,7 @@
 - 2018-8-3 11:24
 - 新版本发布啦！！
 - 前往下载
-- https://raw.githubusercontent.com/wanhlcom/NotificationData/master/qingdouapp.apk
+- https://raw.githubusercontent.com/wanhlcom/Notification/master/qingdouapp.apk
 - true
 - 5000
 - false

@@ -1,8 +1,8 @@
 - 新版本1.0更新提示
-- 2018-8-4 11:24
+- 2018-8-3 11:24
 - 新版本发布啦！！
 - 前往下载
-- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
+- https://raw.githubusercontent.com/wanhlcom/NotificationData/master/qingdouapp.apk
 - true
 - 5000
 - false

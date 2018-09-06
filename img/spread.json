@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "_id": "5b8e576f4336d19770af5a51",
+      "__v": 0,
+      "type": "c-activities",
+      "link": "https://api.zhuishushenqi.com/wechats/event/pay?productType=monthly&hiddenAdBlock=true",
+      "fullDes": "活动",
+      "simpleDes": "活动",
+      "img": "http://statics.zhuishushenqi.com/recommendPage/153605513077648",
+      "title": "活动",
+      "order": 1,
+      "node": {
+        "_id": "591284964e7760c035fec2cf",
+        "order": 1,
+        "sex": "none"
+      },
+      "page": "5910018c8094b1e228e5868f",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "_id": "5b88fb65be4a80e87168427a",
+      "order": 2,
+      "__v": 0,
+      "type": "c-bookdetail",
+      "link": "58f10c8c50c1a53b441be95c",
+      "fullDes": "校花的全能保安",
+      "simpleDes": "校花的全能保安",
+      "img": "http://statics.zhuishushenqi.com/recommendPage/153570390036717",
+      "title": "校花的全能保安",
+      "node": {
+        "_id": "591284964e7760c035fec2cf",
+        "order": 1,
+        "sex": "none"
+      },
+      "page": "5910018c8094b1e228e5868f",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "_id": "5b88fb3dbe4a80e871684279",
+      "order": 3,
+      "__v": 0,
+      "type": "c-bookdetail",
+      "link": "5751797f9511ea65075ff75f",
+      "fullDes": "魔帝缠身：神医九小姐",
+      "simpleDes": "魔帝缠身：神医九小姐",
+      "img": "http://statics.zhuishushenqi.com/recommendPage/15357038625876",
+      "title": "魔帝缠身：神医九小姐",
+      "node": {
+        "_id": "591284964e7760c035fec2cf",
+        "order": 1,
+        "sex": "none"
+      },
+      "page": "5910018c8094b1e228e5868f",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "_id": "5b88fb1154793933720b8ef3",
+      "order": 4,
+      "__v": 0,
+      "type": "c-bookdetail",
+      "link": "5b83a0a5cdddff7ec9a98f73",
+      "fullDes": "少妻十七岁，总裁大叔轻点宠",
+      "simpleDes": "少妻十七岁，总裁大叔轻点宠",
+      "img": "http://statics.zhuishushenqi.com/recommendPage/153570381894057",
+      "title": "少妻十七岁，总裁大叔轻点宠",
+      "node": {
+        "_id": "591284964e7760c035fec2cf",
+        "order": 1,
+        "sex": "none"
+      },
+      "page": "5910018c8094b1e228e5868f",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    }
+  ],
+  "ok": true
+}
